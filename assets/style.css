@@ -1,0 +1,87 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+body:before {
+    position: absolute;
+    content: "";
+    width: 766px;
+    height: 872px;
+    right: -130px;
+    top: -100px;
+    background:url("images/Decore.png") 0 0 no-repeat;
+    z-index: -1;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.navbar-nav > li{
+    padding-right: 20px;
+}
+.navbar-nav > li > a{
+    font-size: 17px;
+}
+.header{
+    margin-top: 10px;
+}
+
+.header-left{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: auto;
+    margin-top: 50px;
+}
+.header-left-content{
+    padding: 50px 50px 0px 50px;
+}
+.header-left-content h3{
+    font-size: 20px;
+    color: #DF6951;
+    text-transform: uppercase;
+}
+.header-left-content h1{
+    font-size: 64px;
+    color: #181E4B;
+    margin-top: 20px;
+    font-weight: 700;
+}
+.header-left-content p{
+    color: #5E6282;
+    font-size: 16px;
+    margin-top: 60px;
+}
+#enjoy-text:before{
+    position: absolute;
+    content: "";
+    top: 135px;
+    left: 250px;
+    width: 385px;
+    height: 12px;
+    background:url("images/Decore-2.png") 0 0 no-repeat;
+    z-index: -1;
+}
+.header-left-buttons{
+    padding-left: 50px;
+    margin-top: 10px;
+}
+#more-buttons{
+    padding: 20px 40px;
+    background-color: #F1A501;
+    color: white;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
+
+.header-right{
+}
+.header-right img{
+    position: absolute;
+    margin-left: -220px;
+}
