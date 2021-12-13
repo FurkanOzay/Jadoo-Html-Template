@@ -1,6 +1,6 @@
 # Jadoo Html Template
 
-Jadoo Template ücre3tsiz indilmiştir. Buradaki [Jadoo](https://freebiesui.com/xd-freebies/travel-agency-landing-page/) linkinden Adobe Xd dosyasına ulaşabilirsiniz.
+Jadoo Template ücretsiz indilmiştir. Buradaki [Jadoo](https://freebiesui.com/xd-freebies/travel-agency-landing-page/) linkinden Adobe Xd dosyasına ulaşabilirsiniz.
 `Proje aşamaları burada her commit sırasında görseller ile eklenecektir.`
 
 ### Proje'nin Live Hali -Header ve Giriş Kısmı-
