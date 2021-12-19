@@ -79,9 +79,50 @@ body:before {
     border: none;
 }
 
-.header-right{
-}
+
 .header-right img{
     position: absolute;
     margin-left: -220px;
 }
+
+.cbmt{
+    margin-bottom: 60px;
+}
+.category-box{
+    text-align: center;
+    width: 20%;
+}
+
+.cbi{
+    margin-top: 50px;
+}
+
+.category-box img{
+    margin-bottom: 25px;
+}
+.category-box h6{
+    margin-bottom: 25px;
+    letter-spacing: 1px;
+}
+
+.cb-hover{
+    position: relative;
+    background-color: #ffffff;
+    -webkit-box-shadow: 0px 35px 41px 0px rgba(145, 145, 145, 0.295);
+    -moz-box-shadow: 0px 35px 41px 0px rgba(145, 145, 145, 0.295);
+    box-shadow: 0px 35px 41px 0px rgba(145, 145, 145, 0.281);
+    border-radius: 36px;
+
+
+}
+.cb-hover:before{
+    position: absolute;
+    content: "";
+    top: 220px;
+    left: -30px;
+    width: 100px;
+    height: 100px;
+    background:url("images/cb-hover-before.png") 0 0 no-repeat;
+    z-index: -1;
+}
+
