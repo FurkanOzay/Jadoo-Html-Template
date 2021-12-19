@@ -6,7 +6,7 @@ Jadoo Template ücretsiz indilmiştir. Buradaki [Jadoo](https://freebiesui.com/x
 ### Proje'nin Live Hali -Header ve Giriş Kısmı-
 
 ![Live](Jadoo-Live.png)
-### Projenin İlk Kodlanan Ksım Görüntüsü
+### Projenin İlk Kodlanan Kısım Görüntüsü
 
 ![Local](Jadoo-Local.png)
 >Projede ki font ve responsive ayarları henüz yapım aşamasındadır. Projenin kodlanmış halini [furkanozay.me](https://www.furkanozay.me/) sitesinden ulaşabileceksiniz. Kaynak kodlarda orada olacak.
